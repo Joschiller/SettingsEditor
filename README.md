@@ -1,6 +1,6 @@
-# LIBRARY NAME
+# SettingsEditor
 
-The `LIBRARY NAME` library offers LIBRARY DESCRIPTION. For a detailed description of the usage of the library see the [Documentation](./Documentation.md).
+The `SettingsEditor` library offers a utility user control for WPF projects that allows the easy creation of a default settings menu. For a detailed description of the usage of the library see the [Documentation](./Documentation.md).
 
 For a feature documentation refer to the [Changelog](./Changelog.md).
 

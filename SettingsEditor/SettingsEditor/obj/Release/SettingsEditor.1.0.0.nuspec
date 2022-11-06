@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SettingsEditor</id>
+    <version>1.0.0</version>
+    <authors>Joachim Schiller</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>A utility user control for WPF projects that allows the easy creation of a default settings menu</description>
+    <tags>WPF Settings</tags>
+    <repository url="https://github.com/Joschiller/SettingsEditor" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\bin\Release\netcoreapp3.1\SettingsEditor.dll" target="lib\netcoreapp3.1\SettingsEditor.dll" />
+    <file src="C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\LICENSE.md" target="LICENSE.md" />
+  </files>
+</package>

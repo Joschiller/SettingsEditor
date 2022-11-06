@@ -1,0 +1,15 @@
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\bin\Release\netcoreapp3.1\SettingsEditor.deps.json
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\bin\Release\netcoreapp3.1\SettingsEditor.dll
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\bin\Release\netcoreapp3.1\SettingsEditor.pdb
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor.csproj.AssemblyReference.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor.g.cs
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor_MarkupCompile.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor_MarkupCompile.lref
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor.baml
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor.g.resources
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor.AssemblyInfoInputs.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor.AssemblyInfo.cs
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor.csproj.CoreCompileInputs.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor.dll
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Release\netcoreapp3.1\SettingsEditor.pdb

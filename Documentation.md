@@ -24,6 +24,7 @@ Accessible Interface:
 ```c#
 public SettingsEditor()
 
+public void InstantiateAllElements()
 public void LoadData(int? identification)
 public bool ValidateData()
 public void SaveData()

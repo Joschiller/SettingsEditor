@@ -1,0 +1,13 @@
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\bin\Debug\SettingsEditor.dll
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\bin\Debug\SettingsEditor.pdb
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor.csproj.AssemblyReference.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor.g.cs
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor_MarkupCompile.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor_MarkupCompile.lref
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor.baml
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor.g.resources
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor.Properties.Resources.resources
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor.csproj.GenerateResource.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor.csproj.CoreCompileInputs.cache
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor.dll
+C:\Users\josch\Desktop\Programming_Projects\PROGRAMMING_PROJECTS\SettingsEditor\SettingsEditor\SettingsEditor\obj\Debug\SettingsEditor.pdb

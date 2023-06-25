@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Joachim Schiller</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <readme>docs\Documentation.md</readme>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/Joschiller/SettingsEditor/</projectUrl>
+    <description>$description$</description>
+    <copyright>$copyright$</copyright>
+    <tags>WPF Settings</tags>
+  </metadata>
+  <files>
+    <file src="..\..\LICENSE.md" target="" />
+    <file src="..\..\Documentation.md" target="docs\" />
+  </files>
+</package>

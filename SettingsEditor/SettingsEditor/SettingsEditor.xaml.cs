@@ -36,7 +36,7 @@ namespace SettingsEditor
             var selectedTab = settingsTabs.SelectedIndex;
             settingsTabs.Items.Clear();
             SettingsEditorItems.Clear();
-            
+
             var controlTypes = AppDomain
                 .CurrentDomain
                 .GetAssemblies()
